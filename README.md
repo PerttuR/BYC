@@ -1,2 +1,2 @@
 # BYC
-BYC data from sampling database
+BYC data collected from eu-dcf sampling database
